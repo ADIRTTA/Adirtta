@@ -5,7 +5,7 @@ def copy_sentence(sentence, times):
 
 if __name__ == "__main__":
     if len(sys.argv) != 4:
-        print("Usage: python task.py <sentence> <times> <output_file>")
+        print("Usage: python task.py <sentence> <amount> </sdcard/filename.txt>")
         sys.exit(1)
 
     sentence = sys.argv[1]
