@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+pkg update && pkg upgarde 
+
+pkg install git 
+
+git clone https://github.com/ADIRTTA/Adirtta.git
+
+cd Adirtta
+
+python task.py
+
+follow the system and make ❤️❤️
