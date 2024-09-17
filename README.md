@@ -29,4 +29,4 @@ cd Adirtta
 
 python task.py
 
-follow the system and make ❤️❤️
+follow the system and make ❤️
