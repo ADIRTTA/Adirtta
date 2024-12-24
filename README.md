@@ -16,7 +16,7 @@ TEAM SHADOW STRIKER is not just a team; it’s a **movement**. We stand for:
 ---
 
 ## ⚡ **ABOUT ME**  
-I’m **Adi**, an ethical hacker passionate about:  
+I’m **Shonchouon Barua Adirtta**, an ethical hacker passionate about:  
 - 🛠️ **Tool Creation**: Specialized in Termux tools for brute-forcing, spamming, and scanning.  
 - 🎨 **Designing**: Hacker-style logos, banners, and animations.  
 - 🔐 **Security Research**: Focused on ethical and responsible hacking.  
@@ -27,7 +27,8 @@ With a sharp focus on simplicity, speed, and performance, my tools are built to 
 
 ## 🔥 **FEATURE HIGHLIGHTS**  
 - ⚡ **Cutting-Edge Tools**:  
-  - Email Validity Checker  
+  - Sms Bombing
+  - DDoS attack 
   - Website Scanner  
   - Brute-Force Engines  
   - Spammer Scripts  
@@ -61,3 +62,5 @@ This repository is strictly for **educational purposes** only. Misuse of the too
 
 > **⭐ Pro Tip**: If you love this repository, don’t forget to star it and share it with fellow ethical hackers!
 > 
+## **🗝️ For script**
+- 🎃 **Contact in Telegram**: @adirtta_hack
