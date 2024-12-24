@@ -56,7 +56,7 @@ This repository is strictly for **educational purposes** only. Misuse of the too
 ## 🌐 **CONNECT WITH ME**  
 - 🖤 **GitHub**: [ADIRTTA](https://github.com/ADIRTTA)  
 - 🔴 **Facebook**: [ADIRTTA](https://www.facebook.com/ADIRTTA)  
-- 🛡️ **TEAM SHADOW STRIKER**: The **ultimate learning platform** for Termux users.  
+- 🛡️ **TEAM SHADOW STRIKER**: The **ultimate learning platform** for Termux users, Spammer and Social media security.  
 
 ---
 
