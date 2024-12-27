@@ -64,3 +64,5 @@ This repository is strictly for **educational purposes** only. Misuse of the too
 > 
 ## **🗝️ For script**
 - 🎃 **Contact in Telegram**: @adirtta_hack
+# FAVORITE PROGRAMING LANGUAGE 
+![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
