@@ -1,7 +1,7 @@
 # 🛡️ TEAM SHADOW STRIKER 🕶️  
 ## **Spammer | Tool Maker | Ethical Hacker**  
 
-Welcome to the **official hub** of **TEAM SHADOW STRIKER** — where creativity meets innovation, and boundaries are pushed responsibly. This repository is a showcase of tools, designs, and scripts crafted by **Adi**, an ethical hacker and skilled spammer/tool maker.  
+Welcome to the **official member hub** of **TEAM SHADOW STRIKER** — where creativity meets innovation, and boundaries are pushed responsibly. This repository is a showcase of tools, designs, and scripts crafted by **Adi**, an ethical hacker and skilled spammer/tool maker.  
 
 ---
 
